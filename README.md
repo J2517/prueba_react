@@ -1,12 +1,49 @@
-# React + Vite
+# Verificador de Números Pares
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación construida con **React** y **Tailwind CSS** que utiliza la API pública [isEven API](https://api.isevenapi.xyz) para verificar si un número ingresado es par.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [isEven API](https://api.isevenapi.xyz/)
+- [Vite](https://vitejs.dev/)
+- [Lucide React](https://lucide.dev/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Instalación y ejecución local
+
+1. **Clone este repositorio:**
+
+```bash
+git clone https://github.com/J2517/prueba_react
+```
+
+2. **Instale las dependencias:**
+
+Abra el repositorio clonado en si IDE preferido y ejecute
+
+```bash
+npm install
+```
+
+3. **Inicie el servidor de desarrollo:**
+
+```bash
+npm run dev
+```
+
+4. Abra su navegador en `http://localhost:5173`
+
+---
+## Despliegue
+
+Para acceder a la app desplegada ingrese al siguiente enlace: https://prueba-react-liard.vercel.app/
+## Autor
+
+Desarrollado por **Jackeline Rivera**  
+Prueba técnica Frontend con React Tailwind. · 2025
+
+---
